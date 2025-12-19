@@ -1,0 +1,19 @@
+.introduction {
+    background-color: rgb(88, 124, 99);
+    width: 50%;
+    margin: 10% 25%;
+    color: white;
+    padding: 3%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+p {
+    color: aquamarine;
+}
+
+.titre-about {
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 10px;
+}
